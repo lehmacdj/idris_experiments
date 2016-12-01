@@ -1,4 +1,4 @@
-module IO
+module IOTest
 
 -- The IO monad
 -- Pretty much just like haskell
